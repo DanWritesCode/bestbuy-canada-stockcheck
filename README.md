@@ -1,4 +1,4 @@
-# bestbuy-canada-stockcheck
+# BestBuy Canada Stock Checker
 A simple stock-checking script for BestBuy Canada, written in Node.js.
 The script checks BestBuy's inventory once every time it is run, so it's best used with a scheduler or crontab.
 
